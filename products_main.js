@@ -1,0 +1,1 @@
+import './assets/scss/products_all.scss';
